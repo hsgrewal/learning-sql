@@ -16,3 +16,8 @@ If SQLite is not installed, one may install it by running the following command.
 ```
 $ sudo apt install sqlite3
 ```
+
+## Resources
+These resources are used to learn SQL and practice using SQLite3.
+1. [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+2. [tutorialspoint - Learn SQLite](https://www.tutorialspoint.com/sqlite/index.htm)
